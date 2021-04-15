@@ -1,0 +1,11 @@
+click==7.1.2
+Flask==0.12.4
+itsdangerous==1.1.0
+Jinja2==2.11.3
+MarkupSafe==1.1.1
+flask_restplus==0.13.0
+Werkzeug==0.14.1
+PyYAML~=5.4.1
+celery==4.2.1
+colorlog==3.1.4
+bson~=0.5.10
